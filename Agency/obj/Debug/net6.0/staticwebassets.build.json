@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h2lgCyYvw4R4IcysbQyg/Ck1t9QgWOo/mm/NbfVErdo=",
+  "Hash": "1IlZIwBjMN8WZ0tH/a6od6T2MfDZOSnwGMbSkO2Vv4A=",
   "Source": "Agency",
   "BasePath": "_content/Agency",
   "Mode": "Default",
@@ -32213,6 +32213,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\upload\\portfolio\\Capture.PNG"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\Exsam-Praktika\\Agency\\wwwroot\\upload\\portfolio\\Screenshot (2).png",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\Exsam-Praktika\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "upload/portfolio/Screenshot (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\portfolio\\Screenshot (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\II novbe\\Desktop\\Exsam-Praktika\\Agency\\wwwroot\\upload\\portfolio\\Screenshot from 2024-03-27 12-15-15.png",
+      "SourceId": "Agency",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\II novbe\\Desktop\\Exsam-Praktika\\Agency\\wwwroot\\",
+      "BasePath": "_content/Agency",
+      "RelativePath": "upload/portfolio/Screenshot from 2024-03-27 12-15-15.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\upload\\portfolio\\Screenshot from 2024-03-27 12-15-15.png"
     },
     {
       "Identity": "C:\\Users\\II novbe\\Desktop\\Exsam-Praktika\\Agency\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
